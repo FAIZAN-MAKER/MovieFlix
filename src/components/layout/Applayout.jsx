@@ -8,9 +8,9 @@ const Applayout = () => {
   // if(navigation.state === "loading") {
   // return <Loading/>
   // }
-  if(true){
-  return <Loading/>
-  }
+  // if(true){
+  // return <Loading/>
+  // }
   return(
     <div>
       <Header/>
